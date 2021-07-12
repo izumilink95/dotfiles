@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = louisdrinkwater95@gmail.com
+	name = Louis Drinkwater
